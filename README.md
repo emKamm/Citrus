@@ -1,9 +1,9 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Girl with a Pearl Earring"
+       title="Citron, Sunshine Concentrated"
        author="JSTOR Labs team"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       banner="https://iiif.juncture-digital.org/banner/?url=https://en.wikipedia.org/wiki/Citron#/media/File:4642_-_Cedri_al_mercato_di_Ortigia,_Siracusa_-_Foto_Giovanni_Dall'Orto,_20_marzo_2014.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
