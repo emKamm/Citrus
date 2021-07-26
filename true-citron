@@ -2,8 +2,7 @@
 <param ve-config 
        title="True Citron"
        author="E.M. Kamm"
-       banner="https://iiif.juncture-digital.org/banner/?"
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/4642_-_Cedri_al_mercato_di_Ortigia%2C_Siracusa_-_Foto_Giovanni_Dall%27Orto%2C_20_marzo_2014.jpg/683px-4642_-_Cedri_al_mercato_di_Ortigia%2C_Siracusa_-_Foto_Giovanni_Dall%27Orto%2C_20_marzo_2014.jpg" 
+       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/4642_-_Cedri_al_mercato_di_Ortigia%2C_Siracusa_-_Foto_Giovanni_Dall%27Orto%2C_20_marzo_2014.jpg/683px-4642_-_Cedri_al_mercato_di_Ortigia%2C_Siracusa_-_Foto_Giovanni_Dall%27Orto%2C_20_marzo_2014.jpg" 
        layout="vertical">
 
 
