@@ -4,7 +4,7 @@
 <param ve-config 
        title="True Citron"
        author="E.M. Kamm"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/e/ef/Chinesische_Zedrat_Zitrone.jpg" 
+       banner="https://iiif.juncture-digital.org/banner/?url="https://upload.wikimedia.org/wikipedia/commons/e/ef/Chinesische_Zedrat_Zitrone.jpg" 
        layout="vertical">
 
 
