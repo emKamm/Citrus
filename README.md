@@ -15,3 +15,7 @@ The citron is an old and original citrus species. There is molecular evidence th
 Archaeological evidence for Citrus fruits has been limited, as neither seeds nor pollen are likely to be routinely recovered in archaeology.The citron is thought to have been native to India, in valleys at the foothills of the eastern Himalayas. It is thought that by the 4th century BC, when Theophrastus mentions the "Persian or Median apple", the citron was mostly cultivated in the Persian Gulf on its way to the Mediterranean basin, where it was cultivated during the later centuries in different areas as described by Erich Isaac. Many mention the role of Alexander the Great and his armies as they attacked Persia and what is today Pakistan, as being responsible for the spread of the citron westward, reaching the European countries such as Greece and Italy.
 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/1d/A_species_of_citrus_fruit_%28Citrus_sarcodactylis_Hort._Bog.%29%3B_Wellcome_V0042687.jpg">
+
+## Citrons in Art
+This 18th/19th c. blown glass citron from Iran via Italy is in the collection of the Metropolitan Museum of Art in New York City. 
+<param ve-image url="https://images.metmuseum.org/CRDImages/is/original/sf91-1-1481a.jpg">
