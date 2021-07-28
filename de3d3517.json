@@ -18,5 +18,25 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "#48f41b64-695d-420c-a2b7-26a9de71361f"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "The end of a citron usually loses its stub, but those that keep it are especially prized. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/e19570f7c428da059e13913533453927f88eaf2bcd43706d0d1bfe84d3f409ce",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:727.3062133789062,2366.00927734375,502.76873779296875,395.38134765625"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#ee1ae618-037b-4426-8540-cda436dd62df"
   }
 ]
