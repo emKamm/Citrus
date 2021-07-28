@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "A citron has ridges that sometimes are called fingers on a hand. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/e19570f7c428da059e13913533453927f88eaf2bcd43706d0d1bfe84d3f409ce",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:903.03125,2480.71875,920.1156005859375,402.703125"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#48f41b64-695d-420c-a2b7-26a9de71361f"
+  }
+]
