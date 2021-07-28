@@ -58,5 +58,25 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "#ee1ae618-037b-4426-8540-cda436dd62df"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "A thorn",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/e19570f7c428da059e13913533453927f88eaf2bcd43706d0d1bfe84d3f409ce",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1122.6875,273.9869689941406,463.71875,313.2135314941406"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#869520d9-856e-458a-ab09-a067adacb8ab"
   }
 ]
