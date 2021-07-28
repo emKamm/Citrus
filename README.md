@@ -4,7 +4,7 @@
 <param ve-config 
        title="True Citron"
        author="E.M. Kamm"
-       banner="https://iiif.juncture-digital.org/banner/?url="https://upload.wikimedia.org/wikipedia/commons/e/ef/Chinesische_Zedrat_Zitrone.jpg" 
+       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/e/ef/Chinesische_Zedrat_Zitrone.jpg" 
        layout="vertical">
 
 The citron (Citrus medica) is a large fragrant citrus fruit with a thick rind. It is one of the original citrus fruits from which all other citrus types developed through natural hybrid speciation or artificial hybridization. Though citron cultivars take on a wide variety of physical forms, they are all closely related genetically. It is used widely in Asian cuisine, and also in traditional medicines, perfume, and for religious rituals and offerings. Hybrids of citrons with other citrus are commercially more prominent, notably lemons and many limes. The citron is an old and original citrus species. There is molecular evidence that most cultivated citrus species arose by hybridization of a small number of ancestral types, including citron, pomelo, mandarin and to a lesser extent, papedas and kumquat. The citron is usually fertilized by self-pollination, which results in their displaying a high degree of genetic homozygosity. It is the male parent of any citrus hybrid rather than a female one.
