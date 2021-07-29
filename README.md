@@ -21,4 +21,4 @@ This 18th/19th c. blown glass citron from Iran via Italy is in the collection of
 
 # Italian Specialty
 The citron in Calabria was celebrated by poets like Byron and D'Annunzio, but is only saved from extinction thanks to the Jewish tradition. Because Calabria is at the southern point of Italy, and its climate most Mediterranean, it is the most suitable for the citron. Despite the milder climate, during the winter it is still too cold for the citron; this is why the farmers need to protect them with blue or green plastic covers. Most of the citron trees in the area are grafted onto foreign citrus rootstock, in order to save them from frost and disease. This practice renders their fruits non-kosher for the Sukkot ritual, and therefore in order for a mashgiach to certify a citron as kosher, he must first carefully inspect the tree to confirm it was not grafted. A Jewish delegation comes from Israel to Santa Maria del Cedro every year between July and August to choose the best fruit to be used in the holiday for the Jewish community.
-<param ve-map center="Q16162" zoom="8"> 
+<param ve-map> 
